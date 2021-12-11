@@ -4,3 +4,4 @@ Git has a mutabkes index called stage
 I love Yao lu li
 who is best beautiful
 yao lu li
+please clone me!

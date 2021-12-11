@@ -11,3 +11,4 @@ Switch to a new branch 'feature1'
 >>>>>>> feature1
 Creating a new branch is quick and simple
 Switched to a new branch 'dev'
+Switch

@@ -14,3 +14,4 @@ Switched to a new branch 'dev'
 yao lu li
 please clone me!
 Switch
+git is a free software

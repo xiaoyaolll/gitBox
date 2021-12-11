@@ -4,3 +4,4 @@ Git has a mutabkes index called stage
 I love Yao lu li
 who is best beautiful
 Creating a new branch i quick
+Switch to a new branch 'feature1'
